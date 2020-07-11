@@ -16,7 +16,7 @@
         android:label="Ocean Trap"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBoDydzG_Q1pmGme2cyb5AiNDqIWZW9Quw"/>
+            android:value="api-key"/>
 
         <activity
             android:name=".MainActivity"
